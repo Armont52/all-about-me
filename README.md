@@ -8,3 +8,6 @@
 - tech-stack
 - workstyle
 - favorites
+
+## 한 줄 소개
+데이터와 MLOps 문제를 구조적으로 푸는 엔지니어
